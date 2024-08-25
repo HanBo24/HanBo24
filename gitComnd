@@ -1,0 +1,7 @@
+git常用的命令： 
+
+拉远端代码：  git pull 
+
+提交代码：  -  git add .    把代码增加到本地 
+           -  git commit -m 'feat: 新增代码描述'
+          -  git push      提交代码到远程 
